@@ -16,5 +16,3 @@ public class GroundCheck : MonoBehaviour
         isGrounded = false;
     }
 }
-
-//här finns en kommentar för Github testet :)
